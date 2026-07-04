@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="2172" height="724" alt="Heimdall README hero banner" src="https://github.com/user-attachments/assets/c5159c4c-2db1-4248-954c-26739e36ee39" />
+  <img width="2172" height="724" alt="EPxPanel README hero banner" src="https://github.com/user-attachments/assets/c5159c4c-2db1-4248-954c-26739e36ee39" />
 </p>
 
 ## ⚡ Quick Start
 
-Install Heimdall with one command:
+Install EPxPanel with one command:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/sh7CBAC/Heimdall/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/EPxTeam/Heimdall/main/install.sh)
 ```
 
 During installation, Heimdall downloads the latest public release package, installs the panel, configures the system service, and walks you through the initial setup.
